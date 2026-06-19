@@ -1,6 +1,7 @@
 # 智能座舱街景理解系统
 <video src="https://github.com/zhangyuxuan0306-gif/Vehicle-Scene-Interaction-System/releases/download/V1.0/22.mp4" controls width="100%"></video>
 ![](https://github.com/zhangyuxuan0306-gif/Vehicle-Scene-Interaction-System/releases/download/V1.0/22.mp4)
+![](https://github.com/zhangyuxuan0306-gif/Vehicle-Scene-Interaction-System/releases/download/V1.0/22.mp4)
 基于自训练 YOLO 识别北京 CBD 7 类建筑。
 
 ## 快速开始
